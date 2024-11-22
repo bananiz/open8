@@ -19,3 +19,4 @@ def factorial(n):
 if __name__ == "__main__":
     number = 5
     print(f"Факториал числа {number} равен {factorial(number)}")
+#21312
